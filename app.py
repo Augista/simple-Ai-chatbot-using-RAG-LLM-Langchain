@@ -26,7 +26,7 @@ Follow these simple steps to interact with the chatbot:
 """)
 
 # Set your Google API Key here
-API_KEY = "AIzaSyAWiIJdInqu18LJkTSCGg_ALhZWl6INTn4"
+API_KEY = ""
 
 def get_pdf_text(pdf_docs):
     text = ""
